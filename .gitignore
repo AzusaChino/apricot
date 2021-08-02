@@ -37,3 +37,6 @@ build/
 ## cmake relate
 CMakeFiles/
 CmakeCache.txt
+*.cbp
+Testing/
+.idea/
