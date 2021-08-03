@@ -33,7 +33,3 @@
 
 build/
 .vscode/
-
-## cmake relate
-CMakeFiles/
-CmakeCache.txt
