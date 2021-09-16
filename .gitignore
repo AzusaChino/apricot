@@ -40,3 +40,4 @@ CmakeCache.txt
 *.cbp
 Testing/
 .idea/
+*.cmake
