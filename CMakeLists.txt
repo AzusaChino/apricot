@@ -19,8 +19,9 @@ find_package(GTest CONFIG REQUIRED)
 
 ### Targets
 add_executable(apricot main.cc)
+
 ### Test Targets
-add_executable(hunter_simple module.cc module_test.cc)
+add_executable(hunter_simple src/modular/module.cc src/modular/module_test.cc)
 target_link_libraries(hunter_simple PUBLIC GTest::main)
 
 ### Testing ###
