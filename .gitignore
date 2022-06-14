@@ -32,7 +32,6 @@
 *.app
 
 build/
-.vscode/
 
 ## cmake relate
 CMakeFiles/

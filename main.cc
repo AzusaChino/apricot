@@ -1,11 +1,9 @@
-#include <stdio.h>
+#include <iostream>
 
-#include "module.h"
+using namespace std;
 
 int main()
 {
-    printf("The flower of Apricot\n");
-    printf("Factorial(5): %d\n", Factorial(5));
-    printf("IsPrime(5): %d\n", IsPrime(5));
+    cout << "The flower of Apricot" << endl;
     return 0;
 }

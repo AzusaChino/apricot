@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "error_functions.h": "c",
+        "file.h": "c",
+        "helper_tool.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c"
+    }
+}
