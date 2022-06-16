@@ -11,6 +11,7 @@
 #include <stdbool.h> // 'bool' type plus 'true' and 'false' constants
 
 #include <error_functions.h>
+#include <get_num.h>
 
 #ifdef TRUE
 #undef TRUE
