@@ -5,6 +5,9 @@
         "file.h": "c",
         "helper_tool.h": "c",
         "stdio.h": "c",
-        "stdbool.h": "c"
+        "stdbool.h": "c",
+        "syscall.h": "c",
+        "unistd.h": "c",
+        "unistd_64.h": "c"
     }
 }
