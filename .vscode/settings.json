@@ -8,6 +8,10 @@
         "stdbool.h": "c",
         "syscall.h": "c",
         "unistd.h": "c",
-        "unistd_64.h": "c"
+        "unistd_64.h": "c",
+        "mutex": "cpp",
+        "iostream": "cpp",
+        "thread": "cpp",
+        "chrono": "cpp"
     }
 }
