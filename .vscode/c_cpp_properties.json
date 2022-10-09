@@ -2,8 +2,8 @@
     "configurations": [
         {
             "name": "Linux",
-            "intelliSenseMode": "linux-clang-x64",
-            "compilerPath": "/usr/bin/clang++",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/g++",
             "includePath": [
                 "${workspaceFolder}/include",
                 "${workspaceFolder}/src/**"
