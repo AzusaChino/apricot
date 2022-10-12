@@ -17,8 +17,7 @@
                 "databaseFilename": ""
             },
             "cStandard": "c11",
-            "cppStandard": "c++11",
-            "configurationProvider": "ms-vscode.cmake-tools"
+            "cppStandard": "c++11"
         }
     ],
     "version": 4
