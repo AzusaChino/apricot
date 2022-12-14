@@ -1,6 +1,6 @@
 # apricot
 
-a project built with c++
+a project built with c/c++
 
 ## install cmake in centos
 
