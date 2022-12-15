@@ -2,6 +2,11 @@
 
 a project built with c/c++
 
+## Contents
+
+- some practices from TLPI
+- some practices from other sources
+
 ## install cmake in centos
 
 1. `yum install -y gcc gcc-c++ make automake`

@@ -6,7 +6,6 @@
 
 int main(int argc, char *argv[])
 {
-
     size_t len;
     off_t offset;
     int fd, ap, j;
