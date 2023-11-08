@@ -39,3 +39,6 @@ CmakeCache.txt
 *.cbp
 Testing/
 .idea/
+
+cmake-build-debug/
+cmake-build-release/

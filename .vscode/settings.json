@@ -58,6 +58,9 @@
         "stdio.h": "c",
         "sched.h": "c",
         "in.h": "c",
-        "socket.h": "c"
+        "socket.h": "c",
+        "__config": "c",
+        "__tree": "c",
+        "locale": "c"
     }
 }
