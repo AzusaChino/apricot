@@ -11,3 +11,7 @@ a project built with c++
 5. `./bootstrap`
 6. `make`
 7. `make install`
+
+## references
+
+- [modern c++ programming](https://github.com/federico-busato/Modern-CPP-Programming)
