@@ -6,7 +6,8 @@
             "compilerPath": "/usr/bin/clang++",
             "includePath": [
                 "${workspaceFolder}/include",
-                "${workspaceFolder}/src/**"
+                "${workspaceFolder}/src/**",
+                "/root/projects/project-lib/rocksdb/include"
             ],
             "defines": [],
             "browse": {
